@@ -1,6 +1,6 @@
 # React Form & NavBar Project
 
-This project is a simple React application that includes a **form** for collecting user input (name, district, and phone number) and a **navbar** with social media icons and navigation links. The design follows a modern dark theme with Apple-inspired aesthetics.
+This project is a simple React application that includes a **form** for collecting user input (name, district, and phone number) and a **navbar** with social media icons and navigation links. The design follows a modern dark theme.
 
 ## Features
 
@@ -19,6 +19,5 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/react-form-navbar.git
-   cd react-form-navbar
+   git clone https://github.com/Paul-V-S-10/Form_and_datatable.git
 
